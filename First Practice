@@ -1,0 +1,7 @@
+<script>
+var shoppingList = ['cheese', 'bread', 'milk];
+
+function doSomething {
+console.log(shoppingList);
+}
+</script>
